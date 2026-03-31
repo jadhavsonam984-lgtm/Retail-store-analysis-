@@ -97,4 +97,8 @@ Feel free to fork this repository and improve the analysis.
 
 ## 📧 Contact
 
-For any queries, feel free to reach out.
+## 📧 Contact
+
+Feel free to connect with me on LinkedIn for any queries or collaboration.
+
+
