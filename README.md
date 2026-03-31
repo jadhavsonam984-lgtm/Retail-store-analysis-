@@ -94,9 +94,6 @@ The following steps were performed:
 Feel free to fork this repository and improve the analysis.
 
 ---
-
-## 📧 Contact
-
 ## 📧 Contact
 
 Feel free to connect with me on LinkedIn for any queries or collaboration.
